@@ -46,7 +46,7 @@
   <router-view />
   </div>
   <Login v-else/>
-  <p><a href="https://github.com/AdamPAllred/NewSocial">GitHub Link! I spent 6 hours!</a></p>
+  <p><a href="https://github.com/AdamPAllred/NewSocailFinal">GitHub Link! I spent 6 hours!</a></p>
 
 
 
